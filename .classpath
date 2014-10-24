@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/common/hadoop-common-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/common/hadoop-common-0.23.9-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/common/hadoop-common-0.23.9-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/common/hadoop-common-0.23.9-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/hdfs/hadoop-hdfs-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/hdfs/hadoop-hdfs-0.23.9-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/hdfs/hadoop-hdfs-0.23.9-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/hdfs/hadoop-hdfs-0.23.9-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-app-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-common-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-core-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-0.23.9-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/mapreduce/hadoop-mapreduce-examples-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-archives-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-datajoin-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-distcp-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-extras-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-gridmix-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-rumen-0.23.9.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-0.23.9/share/hadoop/tools/lib/hadoop-streaming-0.23.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
