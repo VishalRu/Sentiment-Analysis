@@ -56,16 +56,16 @@ then using that trend to predict market shares of any firm.
 
 Table1: Count of Positive, Negative and Neutral tweets at various intervals.
  
-Date	        Neutral	  Negative  	Positive  	% difference between Positive and Negative
-09/08/2014	  7663    	500         	842         	25%
-09/09/2014	  1705878	  62043	        203004	      53%
+Date	        Neutral		 Negative  	Positive    % difference between Positive and Negative
+09/08/2014	  7663         	  500         	842         	25%
+09/09/2014	  1705878	  62043	        203004		 53%
 09/10/2014	  740936	  21842	        67418	        51%
 09/12/2014	  780455	  29700	        49297	        25%
-09/13/2014	  99771	    3499	        4744	        15%
-09/18/2014	  2518490	  347924	      342623      	1%
-09/19/2014	  1606683	  112927	      125224	      5%
-09/20/2014  	1059099	  38039	        74383	        33%
-09/21/2014	  294910  	10537       	26667	        43%
+09/13/2014	  99771	    	   3499	        4744	        15%
+09/18/2014	  2518490	  347924      342623      	1%
+09/19/2014	  1606683	  112927      125224		 5%
+09/20/2014  	  1059099	  38039	        74383	        33%
+09/21/2014	  294910  	  10537       	26667	        43%
 
 
 
